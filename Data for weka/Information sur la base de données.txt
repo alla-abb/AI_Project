@@ -1,0 +1,9 @@
+Pour le sexe :
+0 pour les Garçons 
+1 pour les Filles
+Pour les classes :
+0 pour Voiture
+1 pour Ballon
+2 pour Animal
+3 pour Bonbon
+4 pour Poupée
